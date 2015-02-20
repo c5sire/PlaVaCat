@@ -1,0 +1,8 @@
+Package: PlaVaCat
+Title: Creates static plant variety catalogs
+Version: 0.0.0.9000
+Authors@R: person("Reinhard", "Simon", , "R.SIMON@CGIAR.ORG", role = c("aut", "cre"))
+Description: What the package does (one paragraph)
+Depends: R (>= 3.1.2)
+License: MIT + file
+LazyData: true
